@@ -18,20 +18,20 @@ h3 {
 .red-text {
     color:#ff0000
 }
-.circle-list{
-    list-style: circle;
+.circle-list {
+    list-style-type: circle;
 }
-highlight-block p {
+#highlight-block p {
     font-size: 110%;
     text-align: center;
     background-color: lightblue;
     padding: 10px;
 }
-highlight-block a:visited {
+#highlight-block a:visited {
  text-decoration: underline;
  color: green;   
 }
-highlight-block a:hover {
+#highlight-block a:hover {
     color: yellow;
     font-weight: bold;
 }
